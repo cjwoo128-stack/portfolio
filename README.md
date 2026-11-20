@@ -25,7 +25,6 @@
   - 스크롤 애니메이션·페이지 전환 효과, SEO(sitemap, robots, OG 이미지)
 - **기술 스택**: Next.js 15 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · MySQL · Drizzle ORM · iron-session · Tiptap · Framer Motion · GSAP · Kakao Map
 - 👤 **담당 역할**: 프론트엔드 개발
-- 📂 [소개 보기](./new_company)
 
 <details>
 <summary>📁 폴더 구조 보기</summary>
@@ -99,7 +98,6 @@ new_company/
   - 한국어 / 베트남어 다국어 지원
 - **기술 스택**: React 19 · Vite · Tailwind CSS · Node.js · Express · MySQL · Sequelize · JWT · Multer(파일 매직 바이트 검증)
 - 👤 **담당 역할**: 풀스택 개발
-- 📂 [소개 보기](./wedding-matching)
 
 <details>
 <summary>📁 폴더 구조 보기</summary>
@@ -166,7 +164,6 @@ wedding-matching/
   - 상관분석 및 분기별 분석 그래프 출력
 - **기술 스택**: Python · PyQt5 · pandas · NumPy · SciPy · matplotlib · openpyxl · PyInstaller
 - 👤 **담당 역할**: 풀스택 개발
-- 📂 [소개 보기](./quarterly-report-graph-generator)
 
 <details>
 <summary>📁 폴더 구조 보기</summary>
@@ -208,7 +205,6 @@ quarterly-report-graph-generator/
   - electron-builder로 Windows 설치 파일(.exe) 배포
 - **기술 스택**: Electron · Node.js · Express.js · JSON Web Token · electron-builder
 - 👤 **담당 역할**: 외부 기기와 api 연동 및 프론트엔드 개발
-- 📂 [소개 보기](./vision)
 
 <details>
 <summary>📁 폴더 구조 보기</summary>
